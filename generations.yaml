@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_SLK-Class"
+
+generations:
+  - name: "R172"
+    start_year: 2016
+    end_year: 2020
+    description: "The renamed third-generation SLK roadster, with four-cylinder and V6 gasoline engines."
